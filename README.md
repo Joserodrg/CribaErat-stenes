@@ -1,2 +1,2 @@
-# CribaErat-stenes
+# CribaEratostenes
 Algorithm Erastótenes
