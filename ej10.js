@@ -1,0 +1,1 @@
+// funcion que reciba 2 numeros y devuelta el maximo comun divisor
